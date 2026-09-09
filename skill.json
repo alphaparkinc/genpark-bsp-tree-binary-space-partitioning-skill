@@ -1,0 +1,13 @@
+{
+  "name": "genpark-bsp-tree-binary-space-partitioning-skill",
+  "version": "1.0.0",
+  "description": "Binary Space Partitioning (BSP) tree compiler performing exact 2D/3D half-space polygon splitting, spatial classification, and painter's depth ordering.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bsp-tree",
+    "binary-space-partitioning",
+    "painters-algorithm",
+    "spatial-geometry"
+  ]
+}
